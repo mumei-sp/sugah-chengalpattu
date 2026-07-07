@@ -1,0 +1,11 @@
+# Source land & project documents — kept private (site is self-contained)
+*.docx
+*.pdf
+*.png
+3 Villages/
+# Working / local files
+proposal.html
+theme-gallery.html
+scratchpad/
+.claude/
+.DS_Store
